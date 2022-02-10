@@ -3,6 +3,8 @@
 
 Hello There,
 
+Click On green "Code" button and click "download zip" 
+
 There are 2 sets in this project  
 
   1.  Both are streamed in on "Main" level  
